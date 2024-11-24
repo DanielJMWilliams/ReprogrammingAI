@@ -11,7 +11,7 @@ GOODFIRE_API_KEY=Add_Your_Goodfire_API_Key_Here
 
 ## Repository Structure
 
-- `AutoPromptInjection.ipynb` is the Jupyter Notebook with our code.
+- [AutoPromptInjection Notebook](AutoPromptInjection.ipynb) - the Jupyter Notebook with our code.
 - The `behaviours` folder contains text lists of words grouped by certain behaviours.
 - The `graphs` folder contains our graphed results.
 
