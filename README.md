@@ -1,6 +1,8 @@
 # ReprogrammingAI
 This repository contains Jupyter Notebooks for the Reprogramming AI Models Hackathon.
 
+<a href="https://colab.research.google.com/github/DanielJMWilliams/ReprogrammingAI/blob/main/AutoPromptInjection.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 # About the repository.
 ## Setup
 To run the notebooks in VS Code, add a .env file to the root folder in the following format:
