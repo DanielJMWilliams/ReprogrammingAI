@@ -19,4 +19,6 @@ GOODFIRE_API_KEY=Add_Your_Goodfire_API_Key_Here
 
 # Report
 
-The report is attached to the submission and will be added here in due course.
+- The report pdf can be found here: [Report](/Report/Report.pdf)
+- Link to submission: [Apart Research - Auto Prompt Injection](https://www.apartresearch.com/project/auto-prompt-injection)
+
